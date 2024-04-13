@@ -4,7 +4,7 @@ import React from 'react'
 const Profile = () => {
   return (
     <View>
-      <Text className="flex justify-center items-center text-2xl text-pink-500 font-bold p-5">Profile Page</Text>
+      <Text className="flex justify-center items-center text-2xl text-pink-500 font-bold p-5">This is Pratik Page</Text>
     </View>
   )
 }
